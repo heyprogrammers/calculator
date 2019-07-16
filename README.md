@@ -1,5 +1,7 @@
-# calculator
+# Calculator
 Just Run Main.html
 
 Follow Us on Instagram
 @heyprogrammer
+
+
